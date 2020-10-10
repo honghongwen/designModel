@@ -12,7 +12,6 @@
 * #### 接口隔离原则（interface segregation principle）
 * #### 依赖倒置原则（dependence inversion principle）
 * #### 迪米特原则（low of demeter）
-* ### ...
+* ### 合成复用原则 （composite reuse principle）
 
 关于这些设计原则的概念、这篇文章讲的很透彻。[设计模式之七大基本原则](https://zhuanlan.zhihu.com/p/24614363)
-关于最后的合成复用原则，自己确实没弄明白与依赖倒置的区别，网上资料也讲的不清不楚，如果后续有更深了解，再回来补充
